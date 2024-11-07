@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
